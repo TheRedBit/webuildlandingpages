@@ -1,13 +1,52 @@
-h1.mb-5 {
-    border-radius: 5px;
-    color: white;
+.header-bar {
+    position: relative;
+    width: 100%;
+    background-color: #006aee;
+    height: 300px;
+    text-align: center;
 }
 
-header.masthead {
-    height: 500px;
-    background-color: #007bff;
+.header-bar h1 {
+    color: white;
+    width: 70%;
+    font-size: 38px;
+    padding: 20px;
+    padding-top: 100px;
+    margin: auto;
+    letter-spacing: 2px;
 }
 
 .testimonials {
     margin-top: -100px;
+}
+
+.source-button {
+    font-size: 18px;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.footer {
+    height: 100px;
+    background-color: white;
+    width: 100%;
+    line-height: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 18px;
+}
+
+.footer .left {
+    float: left;
+}
+
+.footer .right {
+    float: right;
+}
+
+.footer .right a {
+    margin-left: 20px;
 }
