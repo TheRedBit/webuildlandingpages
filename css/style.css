@@ -1,0 +1,13 @@
+h1.mb-5 {
+    border-radius: 5px;
+    color: white;
+}
+
+header.masthead {
+    height: 500px;
+    background-color: #007bff;
+}
+
+.testimonials {
+    margin-top: -100px;
+}
