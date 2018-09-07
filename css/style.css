@@ -28,12 +28,14 @@
 }
 
 .footer {
-    height: 100px;
+    height: 4vh;
     background-color: white;
     width: 100%;
     padding-left: 40px;
     padding-right: 40px;
     font-size: 2vh;
+    line-height: 2vh;
+    padding: 10px;
 }
 
 .footer .left {
